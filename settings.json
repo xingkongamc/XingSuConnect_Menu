@@ -1,6 +1,6 @@
 {
-    "icon":"\"C:\\Program Files\\Everything\\Everything.exe\",0",
-    "title":"搜索Everything",
-    "cmd":"\"C:\\Program Files\\Everything\\Everything.exe\" -path \"%1\"",
-    "name":"Everything",
+    "icon":"\"D:\\ENV\\XingSuConnect.exe",0",
+    "title":"星速科技服务器一键连接",
+    "cmd":"\"D:\\ENV\\XingSuConnect.exe"",
+    "name":"XingSuConnect",
 }
